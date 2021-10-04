@@ -1,0 +1,24 @@
+h1{
+    width: 60px;
+    color: orange;
+    font-family: sans-serif;
+}
+p{
+    font-weight: 600;
+}
+body{
+    font-size: 16px;
+    background-color: rgb(255, 400, 200);
+}
+#marelo{
+    background-color: yellow;
+    width: 70px;
+}
+#vrmelho{
+    background-color: red;
+    width: 70px;
+}
+#marrom{
+    background-color: brown;
+    width: 70px;
+}
